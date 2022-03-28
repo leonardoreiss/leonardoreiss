@@ -9,8 +9,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="leo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="leo-Ard" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg">
-  <img align="center" alt="leo-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
  
   ##
