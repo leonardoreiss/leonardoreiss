@@ -100,8 +100,6 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b> na Fac
   <div align="center" valign="top"><br> 
     
   ##
-    
-  ![Snake animation](https://github.com/leonardoreiss/leonardoreiss/blob/output/github-contribution-grid-snake.svg)
   
 </p>
 
