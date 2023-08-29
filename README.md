@@ -60,7 +60,7 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b> na Fac
     <p>
       https://github.com/leonardoreiss/alchimicus
     <p>
-    <b> Descrição: <b> Este sistema foi proposto como atividade pelo professor de Programação
+    <b> Descrição: </b> Este sistema foi proposto como atividade pelo professor de Programação
         Orientada a Objetos na Fatec São Caetano do Sul. É um sistema para uma loja fictícia de
         ingredientes e poções, onde temos uma loja para compra de produtos, cadastro de
         funcionários e clientes e cadastro de produtos. Utilizamos a linguagem JAVA, com Maven e
