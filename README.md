@@ -70,7 +70,7 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b> na Fac
 
 ##
     
-💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar; <br>
 📫 Se quiser pode enviar um email para tpreiscarrasco@gmail.com
 
 #
