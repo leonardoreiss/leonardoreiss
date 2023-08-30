@@ -30,15 +30,15 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b> na Fac
   - Estudar JAVA 🤓;
   - Tocar violão | Piano;
   - Tentar tocar guitarra e baixo 😄
-  - Ir em museus;
-  - Ir em parques 🌳;  
+  - Museus;
+  - Parques 🌳;  
   - Igreja;
   - Concertos musicais 🎶;
-  - Curioso sobre o mundo de Wardware.
+  - Curioso sobre o mundo de hardware.
 
 - 👩‍💻 Experiências adquiridas na faculdade:
   - Trabalho em equipe;
-  - Produção de relatórios Técnicos;
+  - Produção de relatórios técnicos;
   - Estrutura de dados;
   - Banco de dados;
   - UML;
@@ -66,12 +66,11 @@ Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b> na Fac
         funcionários e clientes e cadastro de produtos. Utilizamos a linguagem JAVA, com Maven e
         JavaFX. O banco de dados utilizado foi o MySql.
     <p>
-  - <b> Mais Por vir... 👀 <b>
+  - <b> Mais projetos por vir... 👀 <b>
 
 ##
     
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para tpreiscarrasco@gmail.com
+- 💬 C
 
 #
 
