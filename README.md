@@ -11,7 +11,7 @@
 </a><br />
 <p align="left" >
 Senhoras e Senhores, me chamo Leonardo Reis<br />
-Faço Análise e Desenvolvimento de Sistemas e estou em busca do meu sonhado estágio como desenvolvedor JAVA </b>. 
+Faço Análise e Desenvolvimento de Sistemas e apenas estou vivendo uma linda historia de programação</b>. 
 </p>
 <a href="https://www.linkedin.com/in/leonardo-reis-68b036187/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
@@ -19,7 +19,7 @@ Faço Análise e Desenvolvimento de Sistemas e estou em busca do meu sonhado est
 
 
 <br>
-Atualmente estou cursando <b> Análise e Desenvolvimento de Sistemas </b> na Faculdade de Tecnologia Antônio Russo, em São Caetano do Sul.
+Atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b>, e também aprendendo de tudo um pouco para achar uma falha no seu sistema :)
 <p align="left" >
 <br>
 <hr />
