@@ -73,8 +73,7 @@ Programador ao seu dispor
     <p> 
       https://github.com/leonardoreiss/Advocacia
     <p>
-      <b> Descrição: </b> Este sistema foi proposto como atividade pelo professor de engenharia de software
-      na Fatec São Caetano do Sul. É um sistema de gerenciamento de um escritório de advocacia
+      <b> Descrição: </b> Um sistema de gerenciamento de um escritório de advocacia
       de pequeno porte, aonde se encontra poucos funcionários, com atividades distintas, são eles:
       Advogado, Contator e secretária. Cada usuário tem seu próprio ambiente de trabalho com
       dados salvos em um banco. Utilizamos a linguagem Visual Basic .NET com a IDE Visual Studio
@@ -84,9 +83,8 @@ Programador ao seu dispor
     <p>
       https://github.com/leonardoreiss/alchimicus
     <p>
-    <b> Descrição: </b> Este sistema foi proposto como atividade pelo professor de Programação
-        Orientada a Objetos na Fatec São Caetano do Sul. É um sistema para uma loja fictícia de
-        ingredientes e poções, onde temos uma loja para compra de produtos, cadastro de
+    <b> Descrição: </b>Um sistema para uma loja fictícia de
+        ingredientes e poções do Harry Potter! Onde temos uma loja para compra de produtos, cadastro de
         funcionários e clientes e cadastro de produtos. Utilizamos a linguagem JAVA, com Maven e
         JavaFX. O banco de dados utilizado foi o MySql.
     <p>
