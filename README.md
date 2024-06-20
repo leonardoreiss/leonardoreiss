@@ -11,7 +11,6 @@
 </a><br />
 <p align="left" >
 Senhoras e Senhores, me chamo Leonardo Reis<br />
-Faço Análise e Desenvolvimento de Sistemas e apenas estou vivendo uma linda historia de programação</b>. 
 </p>
 <a href="https://www.linkedin.com/in/leonardo-reis-68b036187/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
@@ -19,32 +18,57 @@ Faço Análise e Desenvolvimento de Sistemas e apenas estou vivendo uma linda hi
 
 
 <br>
-Atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b>, e também aprendendo de tudo um pouco para achar uma falha no seu sistema :)
+Programador ao seu dispor
 <p align="left" >
 <br>
 <hr />
 
 **Meus interesses pessoais:**
 
-- 👾 Meus hobbies são: 
-  - Estudar JAVA 🤓;
-  - Tocar violão | Piano;
+- 👾 Hobbies: 
+  - Tocar violão | Piano
   - Tentar tocar guitarra e baixo 😄
-  - Museus;
-  - Parques 🌳;  
-  - Igreja;
-  - Concertos musicais 🎶;
-  - Curioso sobre o mundo de hardware.
+  - Igreja
+  - Concertos musicais 🎶
+  - Curioso sobre o mundo de hardware
 
-- 👩‍💻 Experiências adquiridas na faculdade:
-  - Trabalho em equipe;
-  - Produção de relatórios técnicos;
-  - Estrutura de dados;
-  - Banco de dados;
-  - UML;
-  - Programação orientada a objetos.
-  
+<br>
+ 
+- ♨️ Experiências profissionais:
+  - Análise e mitigação de riscos
+  - Estrutura de dados
+  - Cibersegurança
+  - Automações
+  - E muito mais a cada dia...
+ 
+<br>
+
+- 👩‍💻 Experiências acadêmicas:
+  - Trabalho em equipe
+  - JAVA
+  - Estrutura de dados
+  - Banco de dados
+  - UML
+  - Programação orientada a objetos
+  - C++
+  - Cobol
+  - Machine Learning
+  - Inteligência Artificial
+
+<br>
+
 - 👩‍💻 Projetos realizados:
+  - Hystera
+    <p> 
+      https://github.com/Medievalia/Hystera
+    <p>
+      <b> Descrição: </b> Aplicativo para Android, desenvolvido em JAVA que oferece uma solução completa e conveniente para mulheres 
+       que buscam monitorar seu ciclo menstrual, prever a ovulação, gerenciar contraceptivos e receber 
+      lembretes importantes, tudo em um único lugar. Além de simplificar a vida das usuárias, o app também promove
+      educação sobre saúde feminina através de artigos e notícias confiáveis. Com um calendário intuitivo e opções 
+      de visualização dinâmica, nosso objetivo é proporcionar praticidade e segurança, tornando-se o companheiro
+      ideal para todas as fases da vida feminina.
+    <p>
   - Escritório de advocacia
     <p> 
       https://github.com/leonardoreiss/Advocacia
@@ -56,7 +80,7 @@ Atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b>, e tamb�
       dados salvos em um banco. Utilizamos a linguagem Visual Basic .NET com a IDE Visual Studio
       para o desenvolvimento. Foi utilizado o banco de dados Access.
     <p>
-  - Projeto Alchimicus
+   - Projeto Alchimicus
     <p>
       https://github.com/leonardoreiss/alchimicus
     <p>
@@ -66,9 +90,8 @@ Atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b>, e tamb�
         funcionários e clientes e cadastro de produtos. Utilizamos a linguagem JAVA, com Maven e
         JavaFX. O banco de dados utilizado foi o MySql.
     <p>
-  - <b> Mais projetos por vir... 👀 <b>
-
-##
+      - <b> Mais projetos por vir 👀 <b>
+<br>
     
 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar; <br>
 📫 Se quiser pode enviar um email para tpreiscarrasco@gmail.com
